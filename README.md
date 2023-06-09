@@ -1,4 +1,6 @@
 # AWS_WebInfrastructure
+![project2](https://github.com/babnerab/AWS_WebInfrastructure/assets/67218426/7595a036-eae0-4143-8256-7c13556ef9ee)
+
 **Description**
 
 This code is written using HashiCorp Configuration Language (HCL) and is used to provision infrastructure on AWS using Terraform. Let's go through the code step by step to understand what it does:
